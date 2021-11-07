@@ -18,9 +18,11 @@ Here are some ideas to get you started:
     Software Engineer
     |
     ML & MIR Enthusiast
+    <br/>
+    Portfolio website: <a href="https://cjbayron.github.io" target="_blank">cjbayron.github.io</>
 </p>
 
 ##### <hr/>
 
 - 🔭 I’m currently working as a Senior Software Engineer, building automation pipelines that utilize Machine Learning (ML) and Natural Language Processing (NLP) techniques for more efficient data collection
-- 🌱 I’m enthusiastic and continuously learning more about ML, MLOps, and their applications, particularly in the field of Music Information Retrieval (MIR), which is the crossroad of things I'm passionate about
+- 🌱 I’m enthusiastic and continuously learning more about ML, MLOps, and their applications, particularly in the field of Music Information Retrieval (MIR), which is the crossroads of things I'm passionate about
