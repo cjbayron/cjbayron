@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 ##### <hr/>
 
-- 🔭 I’m currently working as a Senior Software Engineer, building automation pipelines that utilize Machine Learning (ML) and Natural Language Processing (NLP) techniques for more efficient data collection
-- 🌱 I’m enthusiastic and continuously learning more about ML, MLOps, and their applications, particularly in the field of Music Information Retrieval (MIR), which is the crossroads of things I'm passionate about
+- 🔭 I’m a Software Engineer with focus on end-to-end development of Machine Learning (ML) solutions
+- 🌱 I’m enthusiastic and continuously learning about ML, MLOps, and their applications, particularly in the field of Music Technology (Music Information Retrieval (MIR), Music Recommendation, etc.) which is the crossroads of things I'm passionate about
